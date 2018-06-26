@@ -1,0 +1,7 @@
+pm ='mr modi'
+print('the prime minister of india is %s' %(pm))
+A=10
+print('I have %d days'%A)
+B=3.6
+print('my rating is %.*f' %(2,B))
+print('pm modi is %s he ha has %d dogs and rating %.*f' %(pm,A,2,B))
